@@ -19,6 +19,7 @@
 				"peerDependencies": false
 			}
 		],
-		"import/extensions": ["error", "always"]
+		"import/extensions": ["error", "always"],
+		"max-classes-per-file": ["error", 2]
 	}
 }
